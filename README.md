@@ -1,2 +1,2 @@
 # Kaggle Titanic
-# My first solved Kaggle problem
+My first solved Kaggle problem
